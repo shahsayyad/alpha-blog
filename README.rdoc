@@ -1,1 +1,2 @@
-1 . This is the Repository for the first alpha-blog app of the Complete Ruby On Rails Developer course.
+1 . This is the Repository for the first alpha-blog app of the Complete Ruby On Rails Developer course. 
+2. Next step is to understand Heroku
