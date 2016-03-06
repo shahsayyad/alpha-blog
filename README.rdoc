@@ -1,2 +1,4 @@
-1 . This is the Repository for the first alpha-blog app of the Complete Ruby On Rails Developer course. 
+1. This is the Repository for the first alpha-blog app of the Complete Ruby On Rails Developer course.
 2. Next step is to understand Heroku
+3. Resolved the 'Index Error' due to which the site was not opening.
+4. Deleted the app in Heroku
