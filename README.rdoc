@@ -2,3 +2,4 @@
 2. Next step is to understand Heroku
 3. Resolved the 'Index Error' due to which the site was not opening.
 4. Deleted the app in Heroku
+5. Added the Eprofiteer section
