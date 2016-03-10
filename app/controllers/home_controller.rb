@@ -1,6 +1,5 @@
 
-class HomeController <ApplicationController
-  def team
-
-  end
+class HomeController < ApplicationController
+    def team
+      end
 end
